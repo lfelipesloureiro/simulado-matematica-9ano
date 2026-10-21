@@ -1,0 +1,342 @@
+[
+  {
+    "n": 1,
+    "enunciado": "Em uma turma de 50 alunos, 20% faltaram a uma avaliação. Quantos alunos faltaram?",
+    "alternativas": [
+      "5",
+      "8",
+      "10",
+      "12",
+      "15"
+    ]
+  },
+  {
+    "n": 2,
+    "enunciado": "Uma caixa de presente tem a forma de um paralelepípedo com dimensões 25 cm × 15 cm × 10 cm. O volume dessa caixa é:",
+    "alternativas": [
+      "2.500 cm³",
+      "3.000 cm³",
+      "3.750 cm³",
+      "4.000 cm³",
+      "5.000 cm³"
+    ]
+  },
+  {
+    "n": 3,
+    "enunciado": "Uma escada de 13 metros está apoiada em uma parede. A base da escada dista 5 metros da parede. A que altura a escada toca a parede?",
+    "alternativas": [
+      "8 m",
+      "10 m",
+      "12 m",
+      "14 m",
+      "15 m"
+    ]
+  },
+  {
+    "n": 4,
+    "enunciado": "A fatoração da expressão 25x² − 49 é:",
+    "alternativas": [
+      "(5x − 7)²",
+      "(5x + 7)²",
+      "(5x − 7)(5x + 7)",
+      "(25x − 49)(x + 1)",
+      "(5x − 7)(5x − 7)"
+    ]
+  },
+  {
+    "n": 5,
+    "enunciado": "A expressão x² − 12x + 36 pode ser escrita na forma fatorada como:",
+    "alternativas": [
+      "(x − 6)²",
+      "(x + 6)²",
+      "(x − 12)(x − 3)",
+      "(x − 6)(x + 6)",
+      "(x − 9)(x − 4)"
+    ]
+  },
+  {
+    "n": 6,
+    "enunciado": "Qual das opções abaixo representa uma função polinomial do 1º grau?",
+    "alternativas": [
+      "y = x² − 4",
+      "y = 3/x + 1",
+      "y = −2x + 5",
+      "y = √x − 1",
+      "y = 2ˣ"
+    ]
+  },
+  {
+    "n": 7,
+    "enunciado": "Considere a função f(x) = √(x − 5). O domínio dessa função, no conjunto dos números reais, é:",
+    "alternativas": [
+      "{x ∈ ℝ | x ≥ 0}",
+      "{x ∈ ℝ | x ≥ 5}",
+      "{x ∈ ℝ | x ≤ 5}",
+      "{x ∈ ℝ | x > 5}",
+      "{x ∈ ℝ | x ≠ 5}"
+    ]
+  },
+  {
+    "n": 8,
+    "enunciado": "Em uma circunferência, um ângulo central mede 110°. O ângulo inscrito que determina o mesmo arco mede:",
+    "alternativas": [
+      "35°",
+      "45°",
+      "55°",
+      "110°",
+      "220°"
+    ]
+  },
+  {
+    "n": 9,
+    "enunciado": "Duas retas paralelas são cortadas por uma transversal. Um dos ângulos formados mede 72°. A medida do ângulo correspondente a esse ângulo é:",
+    "alternativas": [
+      "18°",
+      "72°",
+      "90°",
+      "108°",
+      "144°"
+    ]
+  },
+  {
+    "n": 10,
+    "enunciado": "A população aproximada do Brasil é de 2,1 × 10⁸ habitantes. Em notação decimal, esse número é:",
+    "alternativas": [
+      "21.000.000",
+      "210.000.000",
+      "2.100.000.000",
+      "21.000.000.000",
+      "210.000"
+    ]
+  },
+  {
+    "n": 11,
+    "enunciado": "Em uma urna há 4 bolas vermelhas, 3 bolas azuis e 3 bolas verdes. Retirando-se uma bola ao acaso, a probabilidade de ela ser vermelha é:",
+    "alternativas": [
+      "1/5",
+      "2/5",
+      "3/10",
+      "4/10",
+      "1/2"
+    ]
+  },
+  {
+    "n": 12,
+    "enunciado": "Um ônibus percorreu 360 km consumindo 30 litros de combustível. O consumo médio desse ônibus, em km/l, é:",
+    "alternativas": [
+      "8 km/l",
+      "10 km/l",
+      "12 km/l",
+      "15 km/l",
+      "18 km/l"
+    ]
+  },
+  {
+    "n": 13,
+    "enunciado": "Uma televisão custava R$ 2.000,00. Na Black Friday, sofreu um desconto de 15%. No dia seguinte, a loja ofereceu mais 10% de desconto sobre o novo preço. O valor final da televisão foi:",
+    "alternativas": [
+      "R$ 1.500,00",
+      "R$ 1.530,00",
+      "R$ 1.550,00",
+      "R$ 1.600,00",
+      "R$ 1.700,00"
+    ]
+  },
+  {
+    "n": 14,
+    "enunciado": "Um reservatório cilíndrico tem raio da base 3 m e altura 4 m. Considerando π = 3,14, o volume aproximado desse reservatório é:",
+    "alternativas": [
+      "37,68 m³",
+      "56,52 m³",
+      "75,36 m³",
+      "113,04 m³",
+      "150,72 m³"
+    ]
+  },
+  {
+    "n": 15,
+    "enunciado": "Utilizando as propriedades da radiciação e simplificando as raízes, o valor de √(72) · √(50) ÷ √(8) é:",
+    "alternativas": [
+      "15√2",
+      "30",
+      "15√5",
+      "20√2",
+      "45"
+    ]
+  },
+  {
+    "n": 16,
+    "enunciado": "O desenvolvimento de (2x − 3)² é igual a:",
+    "alternativas": [
+      "4x² − 9",
+      "4x² − 12x + 9",
+      "4x² + 12x + 9",
+      "2x² − 6x + 9",
+      "4x² − 6x − 9"
+    ]
+  },
+  {
+    "n": 17,
+    "enunciado": "Dois triângulos são semelhantes. Os ângulos de um deles medem 35°, 75° e 70°. As medidas dos ângulos do outro triângulo são:",
+    "alternativas": [
+      "35°, 55° e 90°",
+      "35°, 75° e 70°",
+      "40°, 70° e 70°",
+      "30°, 75° e 75°",
+      "35°, 80° e 65°"
+    ]
+  },
+  {
+    "n": 18,
+    "enunciado": "Duas retas paralelas são cortadas por transversais, formando segmentos proporcionais. Se os segmentos em uma transversal medem 5 cm e 8 cm, e o segmento correspondente na outra transversal mede 10 cm, o segmento desconhecido mede:",
+    "alternativas": [
+      "12,5 cm",
+      "13 cm",
+      "15 cm",
+      "16 cm",
+      "18 cm"
+    ]
+  },
+  {
+    "n": 19,
+    "enunciado": "A tabela abaixo mostra a relação entre a quantidade de peças produzidas (x) e o custo total em reais (y) de uma fábrica: A função que melhor representa essa relação é:",
+    "alternativas": [
+      "y = 10x + 50",
+      "y = 15x",
+      "y = 10x",
+      "y = 12x − 20",
+      "y = 5x + 100"
+    ],
+    "tabela": [
+      [
+        "x (peças)",
+        "10",
+        "20",
+        "30",
+        "40"
+      ],
+      [
+        "y (R$)",
+        "150",
+        "250",
+        "350",
+        "450"
+      ]
+    ]
+  },
+  {
+    "n": 20,
+    "enunciado": "Simplificando a expressão (4x² − 3x + 5) − (2x² + x − 8), obtém-se:",
+    "alternativas": [
+      "2x² − 4x + 13",
+      "2x² − 2x − 3",
+      "6x² − 4x − 3",
+      "2x² − 4x − 3",
+      "2x² + 2x + 13"
+    ]
+  },
+  {
+    "n": 21,
+    "enunciado": "Em um triângulo retângulo, a hipotenusa mede 25 cm e um dos catetos mede 7 cm. A medida do outro cateto é:",
+    "alternativas": [
+      "18 cm",
+      "20 cm",
+      "24 cm",
+      "26 cm",
+      "28 cm"
+    ]
+  },
+  {
+    "n": 22,
+    "enunciado": "Três números estão na razão 2 : 3 : 5 e sua soma é 100. O maior desses números é:",
+    "alternativas": [
+      "30",
+      "40",
+      "50",
+      "60",
+      "70"
+    ]
+  },
+  {
+    "n": 23,
+    "enunciado": "Maria aplicou R$ 4.000,00 em um investimento que rende 4% ao mês com juros compostos. Após três meses, o montante será de aproximadamente:",
+    "alternativas": [
+      "R$ 4.480,00",
+      "R$ 4.499,46",
+      "R$ 4.500,00",
+      "R$ 4.512,00",
+      "R$ 4.600,00"
+    ]
+  },
+  {
+    "n": 24,
+    "enunciado": "O valor da expressão (3x²)³ · x⁻³, para x = 2, é:",
+    "alternativas": [
+      "108",
+      "216",
+      "432",
+      "648",
+      "864"
+    ]
+  },
+  {
+    "n": 25,
+    "enunciado": "Dois triângulos semelhantes têm lados correspondentes na razão 3 : 7. Se o perímetro do triângulo menor é 36 cm, o perímetro do triângulo maior é:",
+    "alternativas": [
+      "72 cm",
+      "84 cm",
+      "96 cm",
+      "108 cm",
+      "120 cm"
+    ]
+  },
+  {
+    "n": 26,
+    "enunciado": "Simplificando a expressão (x + 5)² − x², obtém-se:",
+    "alternativas": [
+      "10x + 25",
+      "10x",
+      "25",
+      "10x − 25",
+      "20x"
+    ]
+  },
+  {
+    "n": 27,
+    "enunciado": "Uma caixa d’água cilíndrica tem volume de 1,8 m³. Quantos litros de água cabem nessa caixa? (Lembre-se: 1 m³ = 1.000 litros)",
+    "alternativas": [
+      "180 litros",
+      "1.800 litros",
+      "18.000 litros",
+      "180.000 litros",
+      "1.800.000 litros"
+    ]
+  },
+  {
+    "n": 28,
+    "enunciado": "A tabela abaixo mostra as notas de um aluno em quatro avaliações de Matemática: A média aritmética das notas desse aluno é:",
+    "alternativas": [
+      "7,0",
+      "7,5",
+      "7,75",
+      "8,0",
+      "8,25"
+    ],
+    "tabela": [
+      [
+        "Avaliação",
+        "1ª",
+        "2ª",
+        "3ª",
+        "4ª"
+      ],
+      [
+        "Nota",
+        "7,5",
+        "8,0",
+        "6,5",
+        "9,0"
+      ]
+    ]
+  }
+]
